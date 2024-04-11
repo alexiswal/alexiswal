@@ -4,7 +4,7 @@
 
 📚 I am a graduate of Grande Ecole program of Kedge Business School, and got RNCP7 title from MinesParis PSL Executive Education x DataScientest in Data.
 
-🛠 Skills 🛠
+🛠 Technical skills 🛠
 - PYTHON
 - SQL
 - NOSQL (MongoDB)
